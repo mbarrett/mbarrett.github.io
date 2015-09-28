@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Leadership | My Octopress Blog]]></title>
-  <link href="http://mbarrett.github.io/blog/categories/leadership/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Agile | Tales from the Darkside]]></title>
+  <link href="http://mbarrett.github.io/categories/agile/atom.xml" rel="self"/>
   <link href="http://mbarrett.github.io/"/>
-  <updated>2015-09-28T10:42:48+01:00</updated>
+  <updated>2015-09-28T18:12:17+01:00</updated>
   <id>http://mbarrett.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mark Barrett]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First Octopress Blog Post]]></title>
-    <link href="http://mbarrett.github.io/blog/2015/09/25/my-first-octopress-blog-post/"/>
+    <link href="http://mbarrett.github.io/2015/09/25/my-first-octopress-blog-post/"/>
     <updated>2015-09-25T16:11:32+01:00</updated>
-    <id>http://mbarrett.github.io/blog/2015/09/25/my-first-octopress-blog-post</id>
+    <id>http://mbarrett.github.io/2015/09/25/my-first-octopress-blog-post</id>
     <content type="html"><![CDATA[<h1>An h1 header</h1>
 
 <p>Paragraphs are separated by a blank line.</p>
